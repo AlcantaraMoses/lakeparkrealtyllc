@@ -24,23 +24,23 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -2.789967530177945,
-        "pitch": 0.08869909864190006,
+        "yaw": -2.0376413889542278,
+        "pitch": 0.009853752559495277,
         "fov": 1.4665669395098586
       },
       "linkHotspots": [
         {
-          "yaw": -1.0655052006930426,
-          "pitch": 0.11087004190077288,
+          "yaw": -1.1840491386263476,
+          "pitch": 0.1195547376151449,
           "rotation": 0,
-          "target": "2-kitchen2"
+          "target": "2-kitchen_1"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-kitchen1",
-      "name": "kitchen.1",
+      "id": "1-kitchen",
+      "name": "Kitchen",
       "levels": [
         {
           "tileSize": 256,
@@ -68,23 +68,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.05445126821451396,
-          "pitch": 0.24018194125291714,
+          "yaw": 0.036320814571350724,
+          "pitch": 0.17080519105076597,
           "rotation": 0,
-          "target": "2-kitchen2"
+          "target": "2-kitchen_1"
         },
         {
-          "yaw": 2.8620516304192662,
-          "pitch": 0.08198514117374422,
+          "yaw": 3.046945411718969,
+          "pitch": 0.10573147545787265,
           "rotation": 0,
-          "target": "3-livingroom"
+          "target": "3-living-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-kitchen2",
-      "name": "kitchen.2",
+      "id": "2-kitchen_1",
+      "name": "Kitchen_1",
       "levels": [
         {
           "tileSize": 256,
@@ -106,29 +106,29 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.6236753313482879,
-        "pitch": 0.03397725447971034,
+        "yaw": -1.261397050304982,
+        "pitch": 0.11577550497184497,
         "fov": 1.4665669395098586
       },
       "linkHotspots": [
         {
-          "yaw": -1.353970846390233,
-          "pitch": 0.11240751772181667,
+          "yaw": -1.3859779833297097,
+          "pitch": -0.026978175467711196,
           "rotation": 0,
           "target": "0-bathroom"
         },
         {
-          "yaw": -2.909128558086813,
-          "pitch": 0.16713967508210636,
+          "yaw": -2.8711985414556196,
+          "pitch": 0.1319451264511784,
           "rotation": 0,
-          "target": "1-kitchen1"
+          "target": "1-kitchen"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-livingroom",
-      "name": "Livingroom",
+      "id": "3-living-room",
+      "name": "Living Room",
       "levels": [
         {
           "tileSize": 256,
@@ -150,28 +150,28 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 1.9565599495834203,
-        "pitch": 0.07585906501697437,
+        "yaw": 2.26212934028694,
+        "pitch": 0.056652204884862556,
         "fov": 1.4665669395098586
       },
       "linkHotspots": [
         {
-          "yaw": 2.633182864207626,
-          "pitch": -0.00989737964741444,
+          "yaw": 1.3847163449588002,
+          "pitch": 0.05758183951047613,
+          "rotation": 0,
+          "target": "1-kitchen"
+        },
+        {
+          "yaw": 2.6779076626381917,
+          "pitch": 0.004775818316101521,
           "rotation": 0,
           "target": "4-bedroom"
         },
         {
-          "yaw": -3.0540609626786193,
-          "pitch": 0.0193433135612473,
+          "yaw": -3.139756611867977,
+          "pitch": 0.005242647059635175,
           "rotation": 0,
           "target": "5-front-door"
-        },
-        {
-          "yaw": 1.42490104324908,
-          "pitch": 0.04707448767899791,
-          "rotation": 0,
-          "target": "1-kitchen1"
         }
       ],
       "infoHotspots": []
@@ -200,16 +200,16 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.7849081627776968,
-        "pitch": 0.09739935740819305,
+        "yaw": 3.004540537448449,
+        "pitch": 0.10499596378641485,
         "fov": 1.4665669395098586
       },
       "linkHotspots": [
         {
-          "yaw": 2.5606772346861284,
-          "pitch": 0.008877339564293152,
+          "yaw": 2.552959961787421,
+          "pitch": 0.05636454151063752,
           "rotation": 0,
-          "target": "3-livingroom"
+          "target": "3-living-room"
         }
       ],
       "infoHotspots": []
@@ -238,26 +238,26 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 1.0606979031143773,
-        "pitch": 0.09448477252617415,
+        "yaw": 0.89588756794552,
+        "pitch": 0.03714251095669674,
         "fov": 1.4665669395098586
       },
       "linkHotspots": [
         {
-          "yaw": 1.217466223284017,
-          "pitch": 0.07743208058534634,
+          "yaw": 1.39034008586753,
+          "pitch": -0.11010303342780148,
           "rotation": 0,
-          "target": "3-livingroom"
+          "target": "3-living-room"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "499 Randolph St, Meadville, PA 16335",
+  "name": "499 RANDOLPH ST MEADVILLE, PA 16335",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
