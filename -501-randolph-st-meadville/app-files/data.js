@@ -116,6 +116,12 @@ var APP_DATA = {
           "pitch": 0.03776298681598078,
           "rotation": 0,
           "target": "1-bathroom"
+        },
+        {
+          "yaw": -0.41313926599664796,
+          "pitch": 0.10096921965304873,
+          "rotation": 0,
+          "target": "3-livingroom2"
         }
       ],
       "infoHotspots": []
